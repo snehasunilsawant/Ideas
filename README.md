@@ -1,0 +1,2 @@
+# Ideas
+Spring Boot Application
